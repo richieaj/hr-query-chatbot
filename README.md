@@ -18,13 +18,7 @@ A lightweight AI-powered chatbot built with FastAPI and SentenceTransformers to 
 
 ## 🛠️ Tech Stack
 
-| Backend       | FastAPI                  |
-| Embeddings    | SentenceTransformers     |
-| ML Model      | `all-MiniLM-L6-v2`       |
-| Similarity    | scikit-learn (cosine)    |
-| Frontend      | Plain HTML + JS Fetch    |
-
----
+Backend = FastAPI | Embeddings = SentenceTransformers | ML Model = `all-MiniLM-L6-v2` | Similarity = scikit-learn (cosine) | Frontend = Plain HTML + JS Fetch 
 
 ## 📂 Project Structure
 
