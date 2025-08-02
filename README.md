@@ -18,8 +18,6 @@ A lightweight AI-powered chatbot built with FastAPI and SentenceTransformers to 
 
 ## 🛠️ Tech Stack
 
-| Layer         | Tool                     |
-|---------------|--------------------------|
 | Backend       | FastAPI                  |
 | Embeddings    | SentenceTransformers     |
 | ML Model      | `all-MiniLM-L6-v2`       |
