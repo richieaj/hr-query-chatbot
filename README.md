@@ -22,16 +22,8 @@ Backend = FastAPI | Embeddings = SentenceTransformers | ML Model = `all-MiniLM-L
 
 ## 📂 Project Structure
 
-├── App
-│ ├── init.py
-│ ├── rag.py # Core logic: encoding, searching, response narration
-│
-├── Data
-│ └── employees.json # List of employee profiles
-│
-├── Frontend.html # Simple UI for demo
-├── main.py # FastAPI app entry point
-├── .gitignore
+<img width="565" height="286" alt="folder struct" src="https://github.com/user-attachments/assets/16d62f0f-3319-4585-9a2c-99320da3e143" />
+
 
 ## 🧪 How It Works
 
