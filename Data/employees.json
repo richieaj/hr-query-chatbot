@@ -1,0 +1,219 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "skills": [
+                "Python",
+                "React",
+                "AWS"
+            ],
+            "experience_years": 5,
+            "projects": [
+                "E-commerce Platform",
+                "Healthcare Dashboard"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 2,
+            "name": "Ozzy Osbourne",
+            "skills": [
+                "Kubernetes",
+                "Machine Learning",
+                "GCP"
+            ],
+            "experience_years": 3,
+            "projects": [
+                "Banking",
+                "Finance"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 3,
+            "name": "Alice Cooper",
+            "skills": [
+                "TensorFlow",
+                "PyTorch",
+                "Healthcare"
+            ],
+            "experience_years": 6,
+            "projects": [
+                "X-ray Diagnosis",
+                "Medical AI"
+            ],
+            "availability": "unavailable"
+        },
+        {
+            "id": 4,
+            "name": "James Hetfield",
+            "skills": [
+                "Docker",
+                "React",
+                "Kubernetes"
+            ],
+            "experience_years": 4,
+            "projects": [
+                "Patient Risk System"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 5,
+            "name": "Sushin shyam",
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "AWS"
+            ],
+            "experience_years": 5,
+            "projects": [
+                "Insurance Claims Engine"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 6,
+            "name": "Dave Mustaine",
+            "skills": [
+                "Node.js",
+                "MongoDB",
+                "Docker"
+            ],
+            "experience_years": 2,
+            "projects": [
+                "Online Learning Platform"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 7,
+            "name": "David Ellefson",
+            "skills": [
+                "Python",
+                "Flask",
+                "PostgreSQL"
+            ],
+            "experience_years": 4,
+            "projects": [
+                "Healthcare API",
+                "Inventory Tracker"
+            ],
+            "availability": "unavailable"
+        },
+        {
+            "id": 8,
+            "name": "Jolinson Richie",
+            "skills": [
+                "Angular",
+                "Firebase",
+                "TypeScript"
+            ],
+            "experience_years": 3,
+            "projects": [
+                "Customer Support Chatbot"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 9,
+            "name": "Jeff Beck",
+            "skills": [
+                "Python",
+                "Pandas",
+                "Data Analysis"
+            ],
+            "experience_years": 2,
+            "projects": [
+                "Sales Analytics",
+                "HR Dashboard"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 10,
+            "name": "Kiko Loureiro",
+            "skills": [
+                "React",
+                "GraphQL",
+                "Node.js"
+            ],
+            "experience_years": 5,
+            "projects": [
+                "Real-time Collaboration Tool"
+            ],
+            "availability": "unavailable"
+        },
+        {
+            "id": 11,
+            "name": "Tony Iommi",
+            "skills": [
+                "AWS",
+                "Lambda",
+                "CloudFormation"
+            ],
+            "experience_years": 6,
+            "projects": [
+                "Serverless Infrastructure"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 12,
+            "name": "John Petrucci",
+            "skills": [
+                "GCP",
+                "BigQuery",
+                "Python"
+            ],
+            "experience_years": 4,
+            "projects": [
+                "Marketing Analytics"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 13,
+            "name": "Marty Friedman",
+            "skills": [
+                "Docker",
+                "CI/CD",
+                "Python"
+            ],
+            "experience_years": 3,
+            "projects": [
+                "DevOps Automation"
+            ],
+            "availability": "available"
+        },
+        {
+            "id": 14,
+            "name": "Nick Menza",
+            "skills": [
+                "JavaScript",
+                "Vue.js",
+                "Node.js"
+            ],
+            "experience_years": 2,
+            "projects": [
+                "Retail Checkout System"
+            ],
+            "availability": "unavailable"
+        },
+        {
+            "id": 15,
+            "name": "Lars Ulrich",
+            "skills": [
+                "Java",
+                "Kubernetes",
+                "Microservices"
+            ],
+            "experience_years": 5,
+            "projects": [
+                "Banking Fraud Detection"
+            ],
+            "availability": "available"
+        }
+    ]
+}
