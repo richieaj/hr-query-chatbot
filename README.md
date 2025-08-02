@@ -49,14 +49,13 @@ It uses static employee profiles for quick lookup.
 Built and demo-ready in under 2 hours 🚀 (yep, really).
 
 📹 Demo Video
-🎥 Demo.mp4 – (link here once uploaded to Google Drive or YouTube)
+🎥 Demo.mp4 – (https://drive.google.com/file/d/1j9Mx4IJZQzexxmAVecG6wtFKpNJ37mP5/view?usp=sharing)
 
 📜 License
 This project is licensed under the MIT License – feel free to use, modify, or fork.
 
 🙋‍♂️ Author
 Jolinson Richie
-🔗 GitHub
 
 🤝 Contributions
 Pull requests welcome. For major changes, please open an issue first.
